@@ -1,8 +1,5 @@
 const { ButtonStyle } = require("discord.js");
 module.exports = {
-  token:
-    "MTQwMTI1MzY3NDc5MzA0MjEyMQ.GCskzE.SvO4vfEASCsdaLfMYfktsws_38u8olswjomREA", // โทเคนบอท
-
   roleAdmin: "1401254972783333560", //ยศแอดมิน
   guild: ["1319919834032635995"], //เซิฟเวอร์
   WhitelistRole: "1374833170859556905", //ยศไวริส
@@ -36,4 +33,5 @@ module.exports = {
     iconURL: "https://img5.pic.in.th/file/secure-sv1/1500px.th.png", // รูปไอคอน
   },
 };
+
 
